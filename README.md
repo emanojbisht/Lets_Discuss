@@ -13,7 +13,8 @@ state management, respectively. It is powered by Firebase, which provide real ti
 ![Capture3](https://github.com/emanojbisht/Lets_Discuss/assets/46516136/c691f455-25df-43bc-b935-901813eaca66)
 
 #### Thread
-![image](https://github.com/emanojbisht/Lets_Discuss/assets/46516136/9aa6ef47-dcf9-4e78-9991-0528eaf64023)
+![Capture2](https://github.com/emanojbisht/Lets_Discuss/assets/46516136/d163a34f-5f48-402b-8fe2-76b463376ef0)
+
 
 #### Thread List
 ![Capture4](https://github.com/emanojbisht/Lets_Discuss/assets/46516136/4da87ee5-a479-4fa2-9722-17271c1f0b51)
